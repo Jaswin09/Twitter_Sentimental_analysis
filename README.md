@@ -1,1 +1,2 @@
-"# Twitter_Sentiment_analysis" 
+The Twitter API is used to study sentiment analysis on various topics of discussion.
+The API will be used to create a training set from a labelled corpus of 5000 tweets. This training set of data will be pre-processed. This prep-processing step includes removal of stopwords, punctuation, URLs, usernames, and hashtags. This step will also include tokenization of the content of each tweet. After the corpus of labelled data is pre-processed, a set of 100 tweets from the subject of the user's choice will be analyzed using a Naive Bayes classifier in order to calculate the overall sentiment of the topic.
